@@ -1,0 +1,5 @@
+Corrigi o primeiro bug da versão
+
+Corrigi o segundo problema
+
+Corrigi o Terceiro
