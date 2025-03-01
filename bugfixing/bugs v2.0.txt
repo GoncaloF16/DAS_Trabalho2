@@ -1,1 +1,3 @@
 Corrigi o primeiro bug desta versão
+
+Corrigi 2
