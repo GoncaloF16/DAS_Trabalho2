@@ -8,4 +8,6 @@ Quarta Feature
 
 Quinta Feature
 
-Sexta Feature
+Sexta Feature	
+
+Sétima Feature
