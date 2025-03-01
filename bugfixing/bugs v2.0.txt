@@ -3,3 +3,5 @@ Corrigi o primeiro bug desta versão
 Corrigi 2
 
 Corrigi 3
+
+Corrigi 4
